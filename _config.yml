@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Tripp Erista"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/appiconLargeTile.scale-100.png"
   bio    : "The one and only."
   links:
     - label: "Website"
