@@ -1,9 +1,30 @@
 ---
 permalink: /welcome/
-title: "Welcome"
+title: "Welcome to Tripperist"
 
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Level up your road trips.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+### Why Tripperist?
+
+I like to take road trips, not a simple get from here to there type of road trip, but a real get out and see the sights and eat some darn good food type of road trip.
+
+I have FOMO, sometimes my extreme FOMO leads to a lot of detours that I should have missed out on. So I started Tripperist to help me manage my FOMO.
+
+#### Places
+
+If you've ever driven by a Historical Marker sign and thought, "Hmmm, I wonder what that is about. Should I stop and take a look?" the Places tab is for you. 
+
+It lists all of the historical markers within a 25 mile radius of your current position, sorted by distance. Tapping on the name will bring up information on the Historical Marker, as well as a map showing it's location.
+
+##### Map
+
+The Map tab shows all of the Historical Markers within 25 miles of your current location. Selecting a Place pin allows you to get directions (using Maps) to get there from your current location.
+
+#### Trips
+
+The Trips page is a work in progress but has the greatest potential. It has curated road trips that I have taken. Such as Route 66, Mississippi Delta, and the Third Coast from New Orleans to Boca Chica.
+
+Have feedback or interested in becoming a Triperista?
+Send us an email at tripperista@gmail.com
