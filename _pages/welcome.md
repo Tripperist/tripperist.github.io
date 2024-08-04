@@ -4,7 +4,7 @@ title: "Welcome to Tripperist"
 
 ---
 
-Level-up your road trips.
+Level-Up Your Road Trips.
 
 ### Why Tripperist?
 
