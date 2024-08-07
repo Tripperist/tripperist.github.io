@@ -13,7 +13,7 @@ I have extreme FOMO, sometimes it leads to a lot of detours that I should not ha
 
 #### Places
 
-If you've ever driven past a Historical Marker sign and thought, "Hmmm,should I stop and take a look?" the Places tab is for you.
+If you've ever driven past a Historical Marker sign and thought, "Hmmm, should I stop and take a look?" the Places tab is for you.
 
 It lists historical markers within a 25-mile radius, sorted by distance. Tapping  the place will bring up information on the Historical Marker as well as a map showing it's location.
 
