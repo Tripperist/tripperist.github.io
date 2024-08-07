@@ -1,9 +1,8 @@
 ---
-permalink: /welcome/
 title: "Welcome to Tripperist"
 ---
 
-Level-Up Your Road Trips. 001
+Level-Up Your Road Trips. 002
 
 ### Why Tripperist?
 
