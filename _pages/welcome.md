@@ -1,7 +1,6 @@
 ---
 permalink: /welcome/
 title: "Welcome to Tripperist"
-
 ---
 
 Level-Up Your Road Trips.
