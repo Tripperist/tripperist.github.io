@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Tripperist
+title: Welcome to Tripperist
 order: 1
 ---
 
-{% assign about = site.pages | where: 'name','about.md' %}
-{{about}}
+{% assign about = site.pages | where: 'name','welcome.md' %}
+{{welcome}}
