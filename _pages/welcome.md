@@ -1,4 +1,5 @@
 ---
+layhout: home
 title: "Welcome to Tripperist"
 ---
 
