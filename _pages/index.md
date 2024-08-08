@@ -25,9 +25,10 @@ The Map tab shows all Historical Markers within 25-miles on a map. Selecting a P
 
 The Trips page is a work in progress but has the greatest potential. It has curated road trips that I have taken. Such as Route 66, Mississippi Delta, and the Third Coast from New Orleans to Boca Chica. You can follow in my tracks for a great road trip experience.
 
-[![Google Play Store Badge](/assets/images/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge)
+[![Google Play Store Badge](/assets/images/en_badge_web_generic.png){width=50%}](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge)
 
 
 #### Contact Us
+
 Have feedback or interested in becoming a Triperista?
 Send us an email at tripperista@gmail.com
