@@ -2,6 +2,7 @@
 title: "Tripperist Released"
 date: 2024-08-08T00:00:01-08:00
 class: wide
+author_profile: false
 categories:
   - Blog
 ---
@@ -15,7 +16,7 @@ It's still very basic, but I needed to get something out to get feedback on. Nex
 
 The Maps and Trips detail screen are a work in progress. We are still trying to figure out the UX on that.
 
-If you have an Android Phone I would appreciate you taking it for a test drive. **Email us your Google Account Address** so we can add you to our list of testers.
+If you have an Android Phone I would appreciate you taking it for a test drive. **Email us your Google Play Account** so we can add you to our list of testers.
 
 ![Tripperist Level-Up Your Road Trip.](/assets/images/posts/TripperistPromo.png)
 
@@ -25,5 +26,4 @@ Follow @tripperist on Instagram for more Tripperist focused content and visit ht
 
 Finally, become a Tripperista and join our Tripperist Discord Server.
 
-![Tripperist Level-Up Your Road Trip.](/assets/images/posts/TripperistDiscord.png){width="50%"}
-
+![Tripperist Level-Up Your Road Trip.](/assets/images/posts/TripperistDiscord.png | width=50%)
