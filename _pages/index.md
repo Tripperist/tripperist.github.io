@@ -1,5 +1,6 @@
 ---
 title: AWelcome to Tripperist
+permalink: /
 ---
 
 Level-Up Your Road Trips. 006
