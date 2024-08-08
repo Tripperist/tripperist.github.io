@@ -2,42 +2,10 @@
 title: Welcome to Tripperist
 permalink: /
 author_profile: false
-sidebar:
-- text: |
-      [![Get it on Google Play Store](/assets/images/en_badge_web_generic.png){:height="82px" width="256px"}](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge)
-
+classes: wide
 ---
 
 ![Tripperist Level-Up Your Road Trip.](/assets/images/Tripperist.png)
-
-### Why Tripperist?
-
-I like to take road trips, not a simple get from here to there type of road trip, but a real get out and see the sights and eat some darn good food type of road trip.
-
-I have extreme FOMO, sometimes it leads to a lot of detours that I should not have taken. I started Tripperist to manage my FOMO.
-
-#### Places
-
-If you've ever driven past a Historical Marker sign and thought, "Hmmm, should I stop and take a look?" the Places tab is for you.
-
-It lists historical markers within a 25-mile radius, sorted by distance. Tapping  the place will bring up information on the Historical Marker as well as a map showing it's location.
-
-##### Map
-
-The Map tab shows all Historical Markers within 25-miles on a map. Selecting a Place pin gets directions (using Maps) from your current location.
-
-#### Trips
-
-The Trips page is a work in progress but has the greatest potential. It has curated road trips that I have taken. Such as Route 66, Mississippi Delta, and the Third Coast from New Orleans to Boca Chica. You can follow in my tracks for a great road trip experience.
-
-[![Get it on Google Play Store](/assets/images/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge)
-
-#### Contact Us
-
-Have feedback or interested in becoming a Tripperista?
-Send us an email at tripperista@gmail.com
-{: .notice}
-
 
 ## Ditch the Ordinary, Embrace the Epic: Introducing Tripperist
 
@@ -59,17 +27,15 @@ Visualize your adventure with **Tripperist's Map Tab.**  See all historical mark
 
 ### Follow in the Footsteps of a True Road Tripper: Our Trips Tab
 
-**Tripperist's Trips Tab** isn't just a list of destinations, it's a curated collection of **epic journeys** carefully crafted from our own adventures.  From the iconic Route 66 to the soulful Mississippi Delta, experience the thrill of  following in our tracks and creating your own memories.
+**Tripperist's Trips Tab** isn't just a list of destinations, it's a curated collection of **epic journeys** carefully crafted from our own adventures.  From the iconic Route 66 to the soulful Mississippi Delta, experience the thrill of following in our tracks and creating your own memories.
 
-## Download Tripperist Today and Unleash Your Wanderlust!
+### Download Tripperist Today and Unleash Your Wanderlust
 
-
-
-[![Get it on Google Play Store](/assets/images/en_badge_web_generic.png){:height="82px" width="256px"}](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge)
+[![Get it on Google Play Store](/assets/images/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge)
 
 Available now on Google Play
 
-### Connect with Us and Share Your Adventures!
+### Connect with Us and Share Your Adventures
 
-Got feedback? Want to join our community of passionate travelers?  Reach out to us at tripperista@gmail.com.  We're always excited to hear from fellow road trippers!
+**Got feedback?** Reach out to us at tripperista@gmail.com.  We're always excited to hear from fellow Tripperistas!
 {: .notice}
