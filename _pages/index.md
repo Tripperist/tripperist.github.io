@@ -1,9 +1,9 @@
 ---
-title: AWelcome to Tripperist
+title: Welcome to Tripperist
 permalink: /
 ---
 
-![Tripperist Level-Up Your Road Trip.](/assets/Tripperist.png)
+![Tripperist Level-Up Your Road Trip.](/assets/images/Tripperist.png)
 
 ### Why Tripperist?
 
