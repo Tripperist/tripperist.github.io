@@ -1,5 +1,7 @@
 ---
+layout: home
 title: About Me
+permalink: /
 order: 1
 ---
 
