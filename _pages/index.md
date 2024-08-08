@@ -2,7 +2,7 @@
 title: Welcome to Tripperist
 permalink: /
 author_profile: false
-classes: full-wide
+classes: wide
 ---
 
 ![Tripperist Level-Up Your Road Trip.](/assets/images/Tripperist.png)
