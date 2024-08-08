@@ -18,7 +18,7 @@ If you have an Android device, we encourage you to take Tripperist for a test dr
 
 ## Become a Tripperista
 
-**Follow [@tripperist](https://instagram.com/tripperist)** on Instagram for more Tripperist focused content and visit [https://tripperist.com](https://tripperist.com) for more updates. **Join our vibrant community on Discord** and engage with the team, access exclusive content, and provide valuable feedback.
+**Follow [@tripperist](https://instagram.com/tripperist)** on Instagram for more Tripperist focused content and visit [https://tripperist.com](https://tripperist.com) for more updates. **Join our vibrant community on [Discord](https://bit.ly/3yuxsZU)** and engage with the team, access exclusive content, and provide valuable feedback.
 {: .notice}
 
 ![Tripperist Level-Up Your Road Trip.](/assets/images/posts/TripperistDiscord.png)
