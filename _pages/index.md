@@ -1,6 +1,12 @@
 ---
 title: Welcome to Tripperist
 permalink: /
+author_profile: false
+sidebar:
+  - title: "Title"
+    image: "/assets/images/en_badge_web_generic.png"
+    image_alt: "Get Tripperist from Google Play Store"
+    text: "Some text here."
 ---
 
 ![Tripperist Level-Up Your Road Trip.](/assets/images/Tripperist.png)
