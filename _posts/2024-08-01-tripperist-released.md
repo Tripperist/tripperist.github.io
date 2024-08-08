@@ -20,10 +20,8 @@ If you have an Android Phone I would appreciate you taking it for a test drive. 
 
 ![Tripperist Level-Up Your Road Trip.](/assets/images/posts/TripperistPromo.png)
 
-## Keep in Touch
-
-Follow @tripperist on Instagram for more Tripperist focused content and visit https://tripperist.com for more updates.
-
-Finally, become a Tripperista and join our Tripperist Discord Server.
+Follow [@tripperist](https://instagram.com/tripperist) on Instagram for more Tripperist focused content and visit https://tripperist.com for more updates.
+**Become a Tripperista** and join our Tripperist Discord Server.
+{: .notice}
 
 ![Tripperist Level-Up Your Road Trip.](/assets/images/posts/TripperistDiscord.png | width=50%)
