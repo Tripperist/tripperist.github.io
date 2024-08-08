@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Tripp Erista"
   avatar : "/assets/images/TripperistIcon.png"
-  bio    : "Traveler | Technology | Tripperistas."
+  bio    : "Traveler, Technologist, Tripperista."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

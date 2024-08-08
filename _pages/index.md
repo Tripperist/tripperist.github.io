@@ -3,7 +3,7 @@ title: AWelcome to Tripperist
 permalink: /
 ---
 
-![Image Alt Tag](assets/Tripperist.png)
+![Tripperist Level-Up Your Road Trip.](/assets/Tripperist.png)
 
 ### Why Tripperist?
 
