@@ -1,6 +1,5 @@
 ---
-layout: home
-title: About Me
+title: AWelcome to Tripperist
 order: 1
 ---
 
