@@ -35,5 +35,5 @@ The Trips page is a work in progress but has the greatest potential. It has cura
 
 #### Contact Us
 
-Have feedback or interested in becoming a Triperista?
+Have feedback or interested in becoming a Tripperista?
 Send us an email at tripperista@gmail.com
