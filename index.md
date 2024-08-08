@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: home
 title: About Me
 order: 1
 ---
 
-Level-Up Your Road Trips. 005
+Level-Up Your Road Trips. 006
 
 ### Why Tripperist?
 
