@@ -58,8 +58,8 @@ plugins:
 
 author:
   name   : "Tripp Erista"
-  avatar : "/assets/images/appiconLargeTile.scale-100.png"
-  bio    : "The one and only."
+  avatar : "/assets/images/TripperistIcon.png"
+  bio    : "Traveler | Technology | Tripperistas."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
