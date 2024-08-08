@@ -1,6 +1,5 @@
 ---
 title: AWelcome to Tripperist
-order: 1
 ---
 
 Level-Up Your Road Trips. 006
