@@ -2,7 +2,7 @@
 title: Welcome to Tripperist
 permalink: /
 author_profile: false
-classes: wide
+classes: full-wide
 ---
 
 ![Tripperist Level-Up Your Road Trip.](/assets/images/Tripperist.png)
@@ -29,9 +29,9 @@ Visualize your adventure with **Tripperist's Map Tab.**  See all historical mark
 
 **Tripperist's Trips Tab** isn't just a list of destinations, it's a curated collection of **epic journeys** carefully crafted from our own adventures.  From the iconic Route 66 to the soulful Mississippi Delta, experience the thrill of following in our tracks and creating your own memories.
 
-[![Get it on Google Play Store](/assets/images/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge)
+**Download Tripperist Today and Unleash Your Wanderlust**
 
-Download Tripperist Today and Unleash Your Wanderlust
+[![Get it on Google Play Store](/assets/images/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge)
 
 **Got feedback?** Reach out to us at tripperista@gmail.com.  We're always excited to hear from fellow Tripperistas!
 {: .notice}
