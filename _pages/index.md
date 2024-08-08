@@ -7,15 +7,11 @@ classes: wide
 
 ![Tripperist Level-Up Your Road Trip.](/assets/images/Tripperist.png)
 
-## Ditch the Ordinary, Embrace the Epic: Introducing Tripperist
-
-### Tired of the same old road trip?
-
-Forget just getting from point A to point B. Tripperist is here to unleash the **adventure seeker** in you, turning every drive into an unforgettable journey packed with **hidden gems, mouthwatering eats, and once-in-a-lifetime experiences**.
-
-### Say Goodbye to FOMO, Hello to Epic Discoveries!
+### Goodbye FOMO, Hello Epic Discoveries
 
 We get it. You crave the thrill of the unknown, the excitement of discovering the unexpected.  But managing that insatiable wanderlust can be overwhelming.  **Tripperist** is your ultimate travel companion, designed to **tame your FOMO and fuel your wanderlust.**
+
+Forget just getting from point A to point B. Tripperist is here to unleash the **adventure seeker** in you, turning every drive into an unforgettable journey packed with **hidden gems, mouthwatering eats, and once-in-a-lifetime experiences**.
 
 ### Uncover Hidden Wonders with Our Places Tab
 
