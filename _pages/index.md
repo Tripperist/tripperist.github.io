@@ -3,10 +3,10 @@ title: Welcome to Tripperist
 permalink: /
 author_profile: false
 sidebar:
-  - title: "Title"
-    image: "/assets/images/en_badge_web_generic.png"
-    image_alt: "Get Tripperist from Google Play Store"
-    text: "Some text here."
+- text: |
+      Get it in the Google Play Store.
+      [![Get it on Google Play Store](/assets/images/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge)
+
 ---
 
 ![Tripperist Level-Up Your Road Trip.](/assets/images/Tripperist.png)
@@ -31,7 +31,7 @@ The Map tab shows all Historical Markers within 25-miles on a map. Selecting a P
 
 The Trips page is a work in progress but has the greatest potential. It has curated road trips that I have taken. Such as Route 66, Mississippi Delta, and the Third Coast from New Orleans to Boca Chica. You can follow in my tracks for a great road trip experience.
 
-[![Google Play Store Badge](/assets/images/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge)
+[![Get it on Google Play Store](/assets/images/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge)
 
 #### Contact Us
 
