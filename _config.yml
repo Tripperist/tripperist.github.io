@@ -16,8 +16,7 @@
 title: Tripperist
 email: tripperista@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Tripperist enhances your travel experience. Find interesting sites
-  nearby. Get curated trips from fellow Tripperistas.
+  Goddby FOMO, Hello EPIC Journeys.
 twitter_username: tripperist
 github_username: tripperist
 minimal_mistakes_skin: default
@@ -61,12 +60,9 @@ author:
   avatar : "/assets/images/TripperistIcon.png"
   bio    : "Traveler, Technologist, Tripperista."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://tripperist.com"
-    - label: "Twitter"
+    - label: "Threads"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tripperist"
+      url: "https://www.threads.net/@tripperist"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tripperist"
@@ -76,9 +72,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "Threads"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tripperist"
+      url: "https://www.threads.net/@tripperist"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tripperist"
@@ -104,7 +100,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
