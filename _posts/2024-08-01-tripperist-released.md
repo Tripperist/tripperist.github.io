@@ -6,7 +6,7 @@ class: wide
 ---
 
 
-Don't let perfect be the enemy of good....
+Don't let perfect be the enemy of good.
 
 We're thrilled to announce the launch of Tripperist, a new app designed to enhance your road trip experience. While we're still in the early stages of development, we're excited to share our initial version, *Tripperist - Mile 0 Release (1.0.1)*, with a select group of testers on Google Play.
 
