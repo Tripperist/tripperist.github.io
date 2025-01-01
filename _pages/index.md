@@ -5,29 +5,27 @@ author_profile: false
 classes: wide
 ---
 
-![Tripperist Level-Up Your Road Trip.](/assets/images/Tripperist.png)
+## Goodbye FOMO, Hello Epic Discoveries
+We're thrilled to announce the launch of Tripperist, a new app designed to enhance your road trip experience. While we're still in the early stages of development, we're excited to share our initial version, *Tripperist - Mile 0 Release (1.0.1)*, with a select group of testers on Google Play.
 
-### Goodbye FOMO, Hello Epic Discoveries
+![Tripperist Level-Up Your Road Trip.](/assets/images/posts/TripperistPromo.png){: .align-center} 
 
-We get it. You crave the thrill of the unknown, the excitement of discovering the unexpected.  But managing that insatiable wanderlust can be overwhelming.  **Tripperist** is your ultimate travel companion, designed to **tame your FOMO and fuel your wanderlust.**
+## Join Our Test Group
+Scan the QR Code (or [tap the link](mailto:tripperista@gmail.com?subject=Please%20Add%20Me%20To%20The%20Test%20Group&body=My%20Google%20Account%20Is:)) to send us an email. We need to "whitelist" your Google Play email address so that you can download the app form the Play Store.
 
-Forget just getting from point A to point B. Tripperist is here to unleash the **adventure seeker** in you, turning every drive into an unforgettable journey packed with **hidden gems, mouthwatering eats, and once-in-a-lifetime experiences**.
+[![Join Our Test Group](/assets/images/tripperist/QRCodeTestMail.png)](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge){: .align-center} 
 
-### Uncover Hidden Wonders with Our Places Tab
+## Already in the Group?
+If you've been whitelisted, you can grab the latest Test version from the Google Play Store.
 
-Ever see a historical marker and wonder what secrets it holds?  **Tripperist's Places Tab** is your key to unlocking hidden treasures!  We've meticulously curated a database of historical markers within a 25-mile radius,  all ready to be explored.  Simply tap a location for detailed information and a map leading you straight there.
+[![Get it on Google Play Store](/assets/images/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge){: .align-center} 
 
-### Navigate Your Journey with Ease: Our Powerful Map
+## Become a Tripperista
+If you have an Android device, we encourage you to take Tripperist for a test drive. We're actively seeking user feedback to shape the future of the app. 
 
-Visualize your adventure with **Tripperist's Map Tab.**  See all historical markers in a 25-mile radius, clearly marked and ready for exploration.  Click any marker and get instant directions from your current location, powered by Google Maps.
+To participate in our closed beta program, please **email your Google Play Account email address** to [tripperista@gmail.com](mailto:tripperista@gmail.com?subject=Please%20Add%20Me%20To%20The%20Test%20Group&body=My%20Google%20Account%20Is:).
 
-### Follow in the Footsteps of a True Road Tripper: Our Trips Tab
+**Follow [@tripperist](https://instagram.com/tripperist)** on Instagram and visit [https://tripperist.com](https://tripperist.com) for more updates.{: .notice}
 
-**Tripperist's Trips Tab** isn't just a list of destinations, it's a curated collection of **epic journeys** carefully crafted from our own adventures.  From the iconic Route 66 to the soulful Mississippi Delta, experience the thrill of following in our tracks and creating your own memories.
-
-**Download Tripperist Today and Unleash Your Wanderlust**
-
-[![Get it on Google Play Store](/assets/images/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge)
-
-**Got feedback?** Reach out to us at tripperista@gmail.com.  We're always excited to hear from fellow Tripperistas!
+**Join our vibrant community on [Discord](https://bit.ly/3yuxsZU)**, engage with the team, access exclusive content, and provide valuable feedback.
 {: .notice}
