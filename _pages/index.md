@@ -6,7 +6,9 @@ classes: wide
 ---
 
 ## Goodbye FOMO, Hello Epic Discoveries
-We're thrilled to announce the launch of Tripperist, a new app designed to enhance your road trip experience. While we're still in the early stages of development, we're excited to share our initial version, *Tripperist - Mile 0 Release (1.0.1)*, with a select group of testers on Google Play.
+We're thrilled to announce the launch of Tripperist, a new app designed to enhance your road trip experience. 
+
+While we're still in the early stages of development, we're excited to share our initial version, *Tripperist - Mile 0 Release (1.0.1)*, with a select group of testers on Google Play.
 
 ![Tripperist Level-Up Your Road Trip.](/assets/images/posts/TripperistPromo.png){: .align-center} 
 
@@ -18,7 +20,7 @@ Scan the QR Code (or [tap the link](mailto:tripperista@gmail.com?subject=Please%
 ## Already in the Group?
 If you've been whitelisted, you can grab the latest Test version from the Google Play Store.
 
-[![Get it on Google Play Store](/assets/images/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge){: .align-center} 
+[![Get it on Google Play Store](/assets/images/en_badge_web_generic.png){: .align-center}](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge){: .align-center} 
 
 ## Become a Tripperista
 If you have an Android device, we encourage you to take Tripperist for a test drive. We're actively seeking user feedback to shape the future of the app. 
