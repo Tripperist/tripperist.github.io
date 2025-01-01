@@ -15,6 +15,8 @@ Scan the QR Code (or [tap the link](mailto:tripperista@gmail.com?subject=Please%
 
 [![Join Our Test Group](/assets/images/tripperist/QRCodeTestMail.png){width=250}](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge){: .align-center} 
 
+<img src="/assets/images/tripperist/QRCodeTestMail.png" width="50%" />
+
 ## Already in the Group?
 If you've been whitelisted, you can grab the latest Test version from the Google Play Store.
 
