@@ -13,7 +13,7 @@ We're thrilled to announce the launch of Tripperist, a new app designed to enhan
 ## Join Our Test Group
 Scan the QR Code (or [tap the link](mailto:tripperista@gmail.com?subject=Please%20Add%20Me%20To%20The%20Test%20Group&body=My%20Google%20Account%20Is:)) to send us an email. We need to "whitelist" your Google Play email address so that you can download the app form the Play Store.
 
-[![Join Our Test Group](/assets/images/tripperist/QRCodeTestMail.png)](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge){: .width=50% .align-center .width=50%} 
+[![Join Our Test Group](/assets/images/tripperist/QRCodeTestMail.png){width=250}](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge){: .align-center} 
 
 ## Already in the Group?
 If you've been whitelisted, you can grab the latest Test version from the Google Play Store.
