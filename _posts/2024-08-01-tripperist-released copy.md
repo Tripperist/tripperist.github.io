@@ -6,21 +6,21 @@ class: wide
 ---
 
 
-Goodbye FOMO, Hello Epic Discoveries
-
-[![Get it on Google Play Store](/assets/images/tripperist/QRCodeTestMail.png)](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge){: .align-center} We're thrilled to announce the launch of Tripperist, a new app designed to enhance your road trip experience. While we're still in the early stages of development, we're excited to share our initial version, *Tripperist - Mile 0 Release (1.0.1)*, with a select group of testers on Google Play.
-
-
+## Goodbye FOMO, Hello Epic Discoveries
 We're thrilled to announce the launch of Tripperist, a new app designed to enhance your road trip experience. While we're still in the early stages of development, we're excited to share our initial version, *Tripperist - Mile 0 Release (1.0.1)*, with a select group of testers on Google Play.
 
-![Tripperist Level-Up Your Road Trip.](/assets/images/posts/TripperistPromo.png)**Download Tripperist Today and Unleash Your Wanderlust**
+[![Join Our Test Group](/assets/images/tripperist/QRCodeTestMail.png)](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge){: .align-center} 
+
+![Tripperist Level-Up Your Road Trip.](/assets/images/posts/TripperistPromo.png)
+
+## Already In the Test Group?
+Download Tripperist Today and Unleash Your Wanderlust
 
 [![Get it on Google Play Store](/assets/images/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.tripperist.tripperistapp&utm_source=website&pcampaignid=badge)
 
+
 **Got feedback?** Reach out to us at [tripperista@gmail.com](mailto:tripperista@gmail.com?subject=Please%20Add%20Me%20To%20The%20Test%20Group&body=My%20Google%20Account%20Is:).  We're always excited to hear from fellow Tripperistas!
 {: .notice}
-
-![Tripperist Level-Up Your Road Trip.](/assets/images/posts/TripperistPromo.png)
 
 This first iteration of Tripperist focuses on providing a streamlined experience for discovering points of interest along your route.
 
@@ -33,5 +33,3 @@ If you have an Android device, we encourage you to take Tripperist for a test dr
 
 **Join our vibrant community on [Discord](https://bit.ly/3yuxsZU)**, engage with the team, access exclusive content, and provide valuable feedback.
 {: .notice}
-
-![Tripperist Level-Up Your Road Trip.](/assets/images/posts/TripperistDiscord.png)
