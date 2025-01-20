@@ -6,9 +6,10 @@ classes: wide
 ---
 
 ## Goodbye FOMO, Hello Epic Discoveries
-We're thrilled to announce the launch of Tripperist, a new app designed to enhance your road trip experience. 
+We're thrilled to announce the launch of Tripperist, a new app designed to level up your next road trip. 
 
-While we're still in the early stages of development, we're excited to share our initial version, *Tripperist - Mile 0 Release (1.0.5)* on Google Play.
+While we're still in the early stages of development, we're excited to share our initial version, 
+*Tripperist - Mile 0 Release (1.0.5)* on Google Play.
 
 ![Tripperist Level-Up Your Road Trip.](/assets/images/posts/TripperistPromo.png){: .align-center} 
 
