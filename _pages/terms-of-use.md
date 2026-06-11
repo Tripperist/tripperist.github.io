@@ -1,3 +1,8 @@
+---
+permalink: /terms/
+title: "Terms of Use"
+
+---
 # Tripperist — Terms of Use
 
 *Effective date: June 11, 2026*
